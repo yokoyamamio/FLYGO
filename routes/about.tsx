@@ -17,7 +17,6 @@ export default function About() {
           </ul>
           {/* <br class="my-3 bg-[#c4bcc029]" /> */}
           <ACtiveInput value="" />
-          <img class="my-3 rounded-lg max-w-full" src="/qrcode.JPG" alt="" />
         </div>
 
         {/* {isVip ? (
