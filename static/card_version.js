@@ -7,7 +7,7 @@ window.changeVersion = (card_version) => {
     return
   }
   if (!vip) {
-    alert('会员私密空间')
+    alert('私密空间')
     location.href = '/about'
     return
   }

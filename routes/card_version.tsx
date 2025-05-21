@@ -34,42 +34,42 @@ export default function Card_version() {
               <div
                 onClick="changeVersion('sex0')"
                 class="p-2 cursor-pointer bg-pink-600 rounded border mt-4">
-                同居(秘)
+                同居
               </div>
               <div
                 onClick="changeVersion('sex1')"
                 class="p-2 cursor-pointer bg-pink-600 rounded border mt-4">
-                进阶版(秘)
+                进阶版
               </div>
               <div
                 onClick="changeVersion('sex2')"
                 class="p-2 cursor-pointer bg-pink-600 rounded border mt-4">
-                私密版(秘)
+                私密版
               </div>
               <div
                 onClick="changeVersion('sm')"
                 class="p-2 cursor-pointer bg-pink-600 rounded border mt-4">
-                SM版(秘)
+                SM版
               </div>
               <div
                 onClick="changeVersion('huwai')"
                 class="p-2 cursor-pointer bg-pink-600 rounded border mt-4">
-                户外版(秘)
+                户外版
               </div>
               <div
                 onClick="changeVersion('nvpu')"
                 class="p-2 cursor-pointer bg-pink-600 rounded border mt-4">
-                男扑版(秘)
+                男扑版
               </div>
               <div
                 onClick="changeVersion('nanpu')"
                 class="p-2 cursor-pointer bg-pink-600 rounded border mt-4">
-                女扑版(秘)
+                女扑版
               </div>
               <div
                 onClick="changeVersion('custom')"
                 class="p-2 cursor-pointer bg-pink-600 rounded border mt-4">
-                自定义(秘)
+                自定义
               </div>
             </div>
           </div>

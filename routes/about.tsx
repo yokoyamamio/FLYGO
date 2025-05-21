@@ -14,28 +14,10 @@ export default function About() {
         <div class="mb-6 mt-3 text-[#c5005a] bg-white border border-base-300 p-4 rounded-lg shadow-lg">
           <h2 class="font-bold mb-4">🎉 9.9 元开通终身会员，权益如下：</h2>{" "}
           <ul class="mb-5 list-none list-inside text-left text-sm">
-            <li className="mb-1 bg-[#f9e4f0] p-1 rounded-md">
-              🔓&nbsp;<span className="font-semibold">解锁 100+ 姿势图片</span>
-            </li>
-            <li className="mb-1 bg-[#f9e4f0] p-1 rounded-md">
-              🎢&nbsp;
-              <span className="font-semibold">开通所有飞行棋/任务关卡主题</span>
-            </li>
-            <li className="mb-1 bg-[#f9e4f0] p-1 rounded-md">
-              ✨&nbsp;
-              <span className="font-semibold">永久解锁本应用所有功能</span>
-            </li>
           </ul>
           {/* <br class="my-3 bg-[#c4bcc029]" /> */}
           <ACtiveInput value="" />
-          <button class="btn btn-primary text-xs text-white mt-3 px-4 py-2 border rounded-lg bg-pink-600">
-            🔔 扫描下方二维码支付 9.9元，支付后请添加客服微信【 oiovdev
-            】获取激活码! 客服回复时间段：7:00-24:00
-          </button>
           <img class="my-3 rounded-lg max-w-full" src="/qrcode.JPG" alt="" />
-          <button class="btn btn-primary text-xs text-white mt-3 px-4 py-2 border rounded-lg bg-pink-600">
-            如需部署同款网站应用，欢迎联系合作。
-          </button>
         </div>
 
         {/* {isVip ? (
@@ -73,7 +55,6 @@ export default function About() {
         )} */}
       </div>
 
-      <p class="m-2 mb-20 text-center font-bold text-[#c5005a]">@18.wr.do</p>
       <Dock />
     </div>
   );
