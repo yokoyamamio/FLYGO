@@ -7,8 +7,8 @@ window.changeVersion = (card_version) => {
     return
   }
   if (!vip) {
-    alert('私密空间')
-    location.href = '/about'
+    alert('尝试设置为vip')
+    localStorage.setItem('vip', '1');
     return
   }
 
