@@ -19,7 +19,7 @@ export default function Home() {
                 href="/card"
                 class="block px-8 py-2 border rounded-lg bg-pink-600">
                 任务卡牌
-
+            </a>
             </div>
             <div class="font-medium my-4 text-[#c5005a]">点击按钮开始游戏</div>
           </div>
