@@ -12,7 +12,7 @@ export default function VipIsland({ children }: Props) {
    useEffect(()=>{
 
     if(IS_BROWSER){
-      localStorage.setItem('vip', true);
+      localStorage.setItem('vip', fales);
       location.href = '/'
     }
       return ()=>{}
