@@ -4889,9 +4889,7 @@
             uni.getStorageSync("soundFlag"),
           userCustomList: uni.getStorageSync("userCustomList") || [],
           identificationCode: i.identificationCode,
-          lockVip:
-            "" !== uni.getStorageSync("lockVip") &&
-            uni.getStorageSync("lockVip"),
+          lockVip:true,
         },
         mutations: {
           setVoiceOpen: function (e, t) {
