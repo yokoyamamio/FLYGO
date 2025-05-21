@@ -8,11 +8,11 @@ export default function About() {
           <a class="" href="/">
             <img src="/logo.png" class="h-12 w-12 rounded-lg" />
           </a>
-          <h1 class="font-bold text-[#c5005a]">情趣小游戏</h1>
+          <h1 class="font-bold text-[#c5005a]">小游戏</h1>
         </div>
 
         <div class="mb-6 mt-3 text-[#c5005a] bg-white border border-base-300 p-4 rounded-lg shadow-lg">
-          <h2 class="font-bold mb-4">🎉 9.9 元开通终身会员，权益如下：</h2>{" "}
+          <h2 class="font-bold mb-4"></h2>{" "}
           <ul class="mb-5 list-none list-inside text-left text-sm">
           </ul>
           {/* <br class="my-3 bg-[#c4bcc029]" /> */}

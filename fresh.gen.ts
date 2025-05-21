@@ -21,7 +21,7 @@ import * as $$2 from "./islands/vip.tsx";
 
 const manifest = {
   routes: {
-    "./routes/7e4288fd5150d5dadda5aaf8e553d201.tsx": $0,
+    "./routes/go.tsx": $0,
     "./routes/_404.tsx": $1,
     "./routes/_app.tsx": $2,
     "./routes/about.tsx": $3,

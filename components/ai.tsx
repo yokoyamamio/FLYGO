@@ -21,7 +21,7 @@ export default function AI() {
   return (
     <>
       <Head>
-        <title>18.wr.do会员空间</title>
+        <title>会员空间</title>
       </Head>
       <div class="w-full leading-8 p-2 min-h-screen text-shadow bg-[#f9e4f0] text-lg text-red-100">
         <div class="max-w-screen-md mx-auto p-4">
